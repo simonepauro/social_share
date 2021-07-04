@@ -51,7 +51,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ios/Classes/SocialSharePlugin.h">
+        <entry file="file://$PROJECT_DIR$/ios/Classes/SocialShare.h">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -65,7 +65,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ios/Classes/SocialSharePlugin.m">
+        <entry file="file://$PROJECT_DIR$/ios/Classes/SocialShare.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
@@ -93,7 +93,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/shekarmudaliyar/social_share/SocialSharePlugin.kt">
+        <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/shekarmudaliyar/social_share/SocialShare.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="620">
               <caret line="154" column="46" lean-forward="true" selection-start-line="154" selection-start-column="46" selection-end-line="154" selection-end-column="46" />
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/example/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/social_share.dart" />
-        <option value="$PROJECT_DIR$/ios/Classes/SocialSharePlugin.m" />
-        <option value="$PROJECT_DIR$/android/src/main/kotlin/com/shekarmudaliyar/social_share/SocialSharePlugin.kt" />
+        <option value="$PROJECT_DIR$/ios/Classes/SocialShare.m" />
+        <option value="$PROJECT_DIR$/android/src/main/kotlin/com/shekarmudaliyar/social_share/SocialShare.kt" />
       </list>
     </option>
   </component>
@@ -297,7 +297,7 @@
     <entry file="file://$PROJECT_DIR$/ios/social_share.podspec">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/SocialSharePlugin.h">
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SocialShare.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
@@ -307,7 +307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/SocialSharePlugin.m">
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SocialShare.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
@@ -327,7 +327,7 @@
     <entry file="file://$PROJECT_DIR$/android/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/shekarmudaliyar/social_share/SocialSharePlugin.kt">
+    <entry file="file://$PROJECT_DIR$/android/src/main/kotlin/com/shekarmudaliyar/social_share/SocialShare.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="154" column="46" lean-forward="true" selection-start-line="154" selection-start-column="46" selection-end-line="154" selection-end-column="46" />
